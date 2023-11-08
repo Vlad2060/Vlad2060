@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vlad2060
+- 👀 I’m interested in frontend development and desktop apllications
+- 🌱 I’m currently learning JavaScript and many frameworks
+- 📫 How to reach me the JavaScript senior?
+- 🎓 Now i`m studying in "Elektronik" school in Zielona Góra.
+- 💼 I have much work about programing, i`m trying to realize so much of projects. (chateum...)
+- 🤌 LEST GO TO LEARNINGOOOOO SOMETHING)))
